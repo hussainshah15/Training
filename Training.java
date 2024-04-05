@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
 public class Training {
+
+    class employee{
+        String name;
+        String date;
+        int age;
+    }
+
+
+
+
 public static void main(String[] args) {
 
 
@@ -10,6 +20,9 @@ public static void main(String[] args) {
     System.out.println("Welcome to Fit file " + name); 
 
     System.out.println("This is Git hub file ");
+
+
+    // new branch code to be added here
 
 
 
